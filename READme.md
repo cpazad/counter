@@ -16,8 +16,7 @@ A reset button will bring the counter to 0 value
 
 
 
-<br>
-<br>
+
 - - - 
 ![Prject Image](counter.png)
 [Project Live link](https://cpazad.github.io/counter/)
